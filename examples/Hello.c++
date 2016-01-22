@@ -13,6 +13,11 @@ int main () {
     return 0;}
 
 /*
+Developed in 1978 by Bjarne Stroustrup of Denmark.
+C++ is procedural, object-oriented, statically typed, and not garbage collected.
+
+
+
 % g++ --version
 g++-4.8 (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
 Copyright (C) 2013 Free Software Foundation, Inc.
