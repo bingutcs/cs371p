@@ -1,4 +1,5 @@
-FILES :=
+FILES :=      \
+    IsPrime1T
 
 CXX        := g++-4.8
 CXXFLAGS   := -pedantic -std=c++11 -Wall

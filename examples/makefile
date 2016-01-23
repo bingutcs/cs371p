@@ -1,6 +1,9 @@
 FILES :=                \
     Hello               \
-    Assertions
+    UnitTests3          \
+    Coverage1           \
+    Coverage2           \
+    Coverage3
 
 CXX        := g++-4.8
 CXXFLAGS   := -pedantic -std=c++11 -Wall
