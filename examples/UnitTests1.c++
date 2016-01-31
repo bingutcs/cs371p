@@ -2,9 +2,9 @@
 // UnitTests1.c++
 // --------------
 
-// https://code.google.com/p/googletest/
-// https://code.google.com/p/googletest/wiki/Primer#Assertions
-// https://code.google.com/p/googletest/wiki/AdvancedGuide#Exception_Assertions
+// https://github.com/google/googletest
+// https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
+// https://github.com/google/googletest/blob/master/googletest/docs/AdvancedGuide.md
 
 #include <cassert>  // assert
 #include <iostream> // cout, endl

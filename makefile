@@ -25,11 +25,15 @@ pull:
     --include "Coverage2.c++"               \
     --include "Coverage3.c++"               \
     --include "Exceptions.c++"              \
+    --include "Variables.c++"               \
     --exclude "*"                           \
     ../../examples/c++/ examples
 	@rsync -r -t -u -v --delete             \
     --include "IsPrime1.c++"                \
     --include "IsPrime1.h"                  \
+    --include "IsPrime2.c++"                \
+    --include "IsPrime2.h"                  \
+    --include "Incr.c++"                    \
     --exclude "*"                           \
     ../../exercises/c++/ exercises
 
